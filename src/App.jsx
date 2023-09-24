@@ -17,7 +17,7 @@ function App() {
       <NavBar />
 
       <Routes>
-        <Route path='/' Component={HomePage}></Route>
+        <Route path='/testing2' Component={HomePage}></Route>
         <Route path='/kelas' Component={KelasPage}></Route>
         <Route path='/testimonial' Component={TestimonialPage}></Route>
         <Route path='/faq' Component={PertanyaanPage}></Route>
